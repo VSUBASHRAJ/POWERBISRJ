@@ -72,20 +72,16 @@ Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
 
 ## 📸 Visual Previews
 
-| Page            | Screenshot                          |
-| --------------- | ----------------------------------- |
-| Overview        | ![](<img width="1165" height="656" alt="image" src="https://github.com/user-attachments/assets/7154b7f2-db0a-445f-9d82-648a2f755e3f" />)        |
-| Profit          | ![](<img width="658" height="251" alt="image" src="https://github.com/user-attachments/assets/16b1f379-ab88-4729-b0cf-4d72b24c2ab1" />
-<img width="1161" height="652" alt="image" src="https://github.com/user-attachments/assets/ba80441c-90a6-4f97-9cf7-81c31959ec32" />)          |
-| Performance     | ![](<img width="1167" height="655" alt="image" src="https://github.com/user-attachments/assets/65b49b11-bc02-48ee-b040-dcf7eb84e832" />)     |
-| Scatter Chart   | ![](<img width="1169" height="662" alt="image" src="https://github.com/user-attachments/assets/4b33785a-ef02-4fd2-a2a4-2fa24b921339" />
-)   |
-| Forecast        | ![](<img width="1168" height="656" alt="image" src="https://github.com/user-attachments/assets/8f73b165-35c0-42d2-bb6f-46d7e2e8d9e8" />)        |
-| Decomposition Tree |![](<img width="1169" height="658" alt="image" src="https://github.com/user-attachments/assets/7a1c461d-61ac-465b-a8f7-c8cd0271b2f1" />)
+| Page               | Screenshot |
+|--------------------|------------|
+| **Overview**       | <img width="1165" height="656" alt="Overview" src="https://github.com/user-attachments/assets/7154b7f2-db0a-445f-9d82-648a2f755e3f" /> |
+| **Profit**         | <img width="658" height="251" alt="Profit Chart 1" src="https://github.com/user-attachments/assets/16b1f379-ab88-4729-b0cf-4d72b24c2ab1" /> |
+| **Performance**    | <img width="1167" height="655" alt="Performance" src="https://github.com/user-attachments/assets/65b49b11-bc02-48ee-b040-dcf7eb84e832" /> |
+| **Scatter Chart**  | <img width="1169" height="662" alt="Scatter Chart" src="https://github.com/user-attachments/assets/4b33785a-ef02-4fd2-a2a4-2fa24b921339" /> |
+| **Forecast**       | <img width="1168" height="656" alt="Forecast" src="https://github.com/user-attachments/assets/8f73b165-35c0-42d2-bb6f-46d7e2e8d9e8" /> |
+| **Decomposition Tree** | <img width="1169" height="658" alt="Decomposition Tree" src="https://github.com/user-attachments/assets/7a1c461d-61ac-465b-a8f7-c8cd0271b2f1" /> |
+| **Key Influencers**| <img width="1169" height="658" alt="Key Influencers" src="https://github.com/user-attachments/assets/e9e5a4ab-fc2b-41d4-b59d-e563ce452524" /> |
 
-
-| Key Influencers | ![](![(<img width="1169" height="658" alt="image" src="https://github.com/user-attachments/assets/e9e5a4ab-fc2b-41d4-b59d-e563ce452524" />
-)) |
 
 ---
 
