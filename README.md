@@ -1,4 +1,4 @@
-<img width="1169" height="658" alt="image" src="https://github.com/user-attachments/assets/cb4e1f0d-42fc-4e5f-b6de-2e295d538cc3" /># POWERBISRJ
+# POWERBISRJ
 
 Here’s the **complete `README.md` file** you can directly put in your GitHub repo:
 
