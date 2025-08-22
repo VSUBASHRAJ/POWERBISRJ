@@ -7,7 +7,7 @@ Here’s the **complete `README.md` file** you can directly put in your GitHub r
 ```markdown
 # 📊 Power BI Adventure Works Report
 
-This repository contains an **interactive Power BI dashboard** created using the **Adventure Works** dataset.  
+This repository contains an **interactive Power BI dashboard** created using the Adventure Works dataset.  
 It demonstrates key Power BI features, including data modeling, DAX calculations, forecasting, and advanced visuals.
 
 ---
