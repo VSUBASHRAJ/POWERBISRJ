@@ -37,14 +37,6 @@ It demonstrates key Power BI features, including data modeling, DAX calculations
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-
-````
-
----
 
 ## 🚀 Getting Started
 
