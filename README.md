@@ -1,7 +1,5 @@
 # POWERBISRJ
 
-Here’s the **complete `README.md` file** you can directly put in your GitHub repo:
-
 ---
 
 
